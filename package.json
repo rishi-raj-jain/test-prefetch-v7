@@ -1,0 +1,11 @@
+{
+  "name": "prefetch-broken",
+  "devDependencies": {
+    "@edgio/cli": "^7.0.14",
+    "@edgio/core": "^7.0.14",
+    "@edgio/devtools": "^7.0.14",
+    "@edgio/prefetch": "^7.0.14",
+    "@edgio/starter": "^7.0.14",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
